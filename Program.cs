@@ -11,5 +11,5 @@ int p;
 for (int i = 1; i <= N; i++)
 {
     p = i * i * i;
-    Console.WriteLine($"{p}");
+    Console.WriteLine($"{N} -> {p}");
 }
